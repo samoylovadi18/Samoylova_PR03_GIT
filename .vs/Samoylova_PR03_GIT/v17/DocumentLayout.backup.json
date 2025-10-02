@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{319003BA-766E-4200-B214-D0C9E4521F81}|Samoylova_PR03_GIT\\Samoylova_PR03_GIT.csproj|c:\\users\\karta\\source\\repos\\samoylova_pr03_git\\samoylova_pr03_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319003BA-766E-4200-B214-D0C9E4521F81}|Samoylova_PR03_GIT\\Samoylova_PR03_GIT.csproj|solutionrelative:samoylova_pr03_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{319003BA-766E-4200-B214-D0C9E4521F81}|Samoylova_PR03_GIT\\Samoylova_PR03_GIT.csproj|c:\\users\\karta\\source\\repos\\samoylova_pr03_git\\samoylova_pr03_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{319003BA-766E-4200-B214-D0C9E4521F81}|Samoylova_PR03_GIT\\Samoylova_PR03_GIT.csproj|solutionrelative:samoylova_pr03_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -27,11 +31,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\Samoylova_PR03_GIT\\Form1.cs",
+              "RelativeDocumentMoniker": "Samoylova_PR03_GIT\\Form1.cs",
+              "ToolTip": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\Samoylova_PR03_GIT\\Form1.cs*",
+              "RelativeToolTip": "Samoylova_PR03_GIT\\Form1.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:41:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\Samoylova_PR03_GIT\\Form1.cs",
               "RelativeDocumentMoniker": "Samoylova_PR03_GIT\\Form1.cs",
-              "ToolTip": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\Samoylova_PR03_GIT\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Samoylova_PR03_GIT\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\karta\\source\\repos\\Samoylova_PR03_GIT\\Samoylova_PR03_GIT\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Samoylova_PR03_GIT\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T13:27:42.651Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"

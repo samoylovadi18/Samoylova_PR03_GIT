@@ -1,0 +1,10 @@
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\bin\Debug\Samoylova_PR03_GIT.exe.config
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\bin\Debug\Samoylova_PR03_GIT.exe
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\bin\Debug\Samoylova_PR03_GIT.pdb
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.csproj.AssemblyReference.cache
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.Form1.resources
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.Properties.Resources.resources
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.csproj.GenerateResource.cache
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.csproj.CoreCompileInputs.cache
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.exe
+C:\Users\karta\source\repos\Samoylova_PR03_GIT\Samoylova_PR03_GIT\obj\Debug\Samoylova_PR03_GIT.pdb
